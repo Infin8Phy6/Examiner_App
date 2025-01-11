@@ -1,0 +1,68 @@
+
+Got it! If your app or website doesn't collect any personal data from users, 
+you can have a much simpler privacy policy. Below is a privacy policy that reflects 
+this situation, stating that no personal data is collected or processed.
+
+Privacy Policy for Examiner
+
+Effective Date: 2025
+
+At Examiner ("we," "our," "us"), we are committed to protecting your privacy. 
+This Privacy Policy outlines how we handle your information when you use our app, 
+website, or services (collectively, "Services"). 
+We want to assure you that we do not collect any personal information from users.
+
+1. Information We Do Not Collect
+We do not collect, store, or process any personal data from users of our Services. 
+Specifically, we do not collect:
+
+Name
+Email address
+Phone number
+Any other personally identifiable information
+2. Usage Data
+While we do not collect personal information, we may collect non-personal 
+data related to the usage of our Services. This can include:
+
+Device information (e.g., device type, operating system, browser type)
+Usage statistics (e.g., how often you use the app, features you interact with)
+This data is collected for the purpose of improving our Services and providing 
+a better user experience, but it does not identify you personally.
+
+3. Cookies and Tracking Technologies
+Our Services may use cookies or similar tracking technologies to 
+improve your experience. Cookies are small files stored on your device 
+that help us understand how you interact with the app or website. 
+These cookies do not collect personal information. 
+You can disable cookies through your browser settings if you prefer 
+not to have them stored on your device.
+
+4. Third-Party Services
+Our Services may contain links to third-party websites or services. 
+These third parties may have their own privacy policies, and we are 
+not responsible for their practices. We encourage you to review the privacy 
+policies of any third-party websites or services you visit.
+
+5. Data Security
+We do not store any personal data, but we still take reasonable 
+steps to ensure that our Services are secure and free from unauthorized access, 
+use, or disclosure. While we cannot guarantee complete security, we strive to 
+protect the information you share with us.
+
+6. Children's Privacy
+Our Services are not intended for use by children under the age of 13. 
+We do not knowingly collect any personal data from children. If we discover 
+that we have inadvertently collected personal information from a child under 13, 
+we will take steps to delete that information.
+
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will 
+be posted on this page with an updated "Effective Date." We encourage you to review 
+this policy periodically for any updates or changes.
+
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Examiner
+Email: angelesedgardo17@gmail.com
+All rights Reserved
