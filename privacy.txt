@@ -1,8 +1,4 @@
 
-Got it! If your app or website doesn't collect any personal data from users, 
-you can have a much simpler privacy policy. Below is a privacy policy that reflects 
-this situation, stating that no personal data is collected or processed.
-
 Privacy Policy for Examiner
 
 Effective Date: 2025
@@ -15,11 +11,9 @@ We want to assure you that we do not collect any personal information from users
 1. Information We Do Not Collect
 We do not collect, store, or process any personal data from users of our Services. 
 Specifically, we do not collect:
+Name, Email address, Phone number, or 
+Any other personally identifiable information. 
 
-Name
-Email address
-Phone number
-Any other personally identifiable information
 2. Usage Data
 While we do not collect personal information, we may collect non-personal 
 data related to the usage of our Services. This can include:
